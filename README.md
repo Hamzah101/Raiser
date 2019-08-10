@@ -21,8 +21,7 @@ USAGE :
  <ul>
  <li>Hamzah</li>
  </ul>
-                                                                
-    ********PLEASE DO NOT COPY THE CODE********** 
+                                                               
 
 <a href="https://www.instagram.com/_____hamzah_____"> <button class="btn btn-primary">Instragram</button> </a> 
 
