@@ -9,8 +9,7 @@ USAGE :
 
 ****************************************************************************************************************************************
 
-                                                   
-                                             SUPPORTED OPERATING SYSTEM 
+    SUPPORTED OPERATING SYSTEM 
                                                                
 <ol>
   <li>WINDOWS</li>
@@ -18,12 +17,12 @@ USAGE :
 </ol>
                                                              
                                                                     
-                                                     AUTHOR
+    AUTHOR
  <ul>
  <li>Hamzah</li>
  </ul>
                                                                 
-                                 *************PLEASE DO NOT COPY THE CODE************** 
+    ********PLEASE DO NOT COPY THE CODE********** 
 
 <a href="https://www.instagram.com/_____hamzah_____"> <button class="btn btn-primary">Instragram</button> </a> 
 
